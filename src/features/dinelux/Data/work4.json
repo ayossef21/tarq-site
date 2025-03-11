@@ -1,0 +1,56 @@
+[
+  {
+    "subtitle": "Seamless Reservation Management",
+    "title": "",
+    "desc": "A hassle-free booking process with real-time updates on seating availability.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Smart Table & Waitlist Management",
+    "title": "",
+    "desc": "Optimize table layouts with visual tools and manage high-demand periods effortlessly.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Menu & Guest Preferences Customization",
+    "title": "",
+    "desc": "Allow guests to browse menus, pre-select dishes, and personalize their dining experience.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Automated Discount",
+    "title": "",
+    "desc": "Offer tailored discounts based on guest profiles and special packages.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Comprehensive System Integration",
+    "title": "",
+    "desc": "Sync seamlessly with PMS, POS, and other hotel or restaurant management systems.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Advanced Analytics & Performance Insights",
+    "title": "",
+    "desc": "Track guest behavior, peak hours, and overall restaurant performance.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": " Guest Feedback & Review System",
+    "title": "",
+    "desc": "Collect, analyze, and act on reviews to enhance service quality.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Reliable & Secure Operations",
+    "title": "",
+    "desc": "Ensure data protection with encrypted security and 24/7 dedicated support.",
+    "addClass": "work4-box heading4"
+  },
+  {
+    "subtitle": "Effortless Automation & Notifications",
+    "title": "",
+    "desc": "Send instant confirmations, reminders, and updates via SMS or email.",
+    "addClass": "work4-box heading4"
+  }
+]

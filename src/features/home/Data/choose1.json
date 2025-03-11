@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/images/features/hero/dinelux/work-icon1.png",
+    "title": "Guest Satisfaction",
+    "desc": "Offering a tailored and user-friendly booking system."
+  },
+  {
+    "img": "/assets/images/features/hero/dinelux/work-icon2.png",
+    "title": "Maximize Efficiency",
+    "desc": "Automating processes to save time and minimize errors."
+  },
+  {
+    "img": "/assets/images/features/hero/dinelux/work-icon3.png",
+    "title": "Optimize Operations",
+    "desc": "Ensuring balanced occupancy and smooth operations."
+  }
+]

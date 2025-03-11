@@ -1,0 +1,26 @@
+[
+	{
+		"icon": "/assets/images/features/hero/team/ahmed-abdallah.webp",
+		"title": "Ahmed Abdallah",
+		"desc": "CTO",
+        "linkedIn": "https://www.linkedin.com/in/ayossef/",
+        "gmail": "ahmed@tarq.me",
+        "website": "/"
+	},
+	{
+		"icon": "/assets/images/features/hero/team/mohamed-ibrahim.webp",
+		"title": "Mohamed Ibrahim",
+		"desc": "Delivery Manager",
+        "linkedIn": "https://www.linkedin.com/in/mibrahim-pm-net/",
+        "gmail": "mibrahim@tarq.me",
+        "website": "/"
+	},
+	{
+		"icon": "/assets/images/features/hero/team/mahmoud-hussien.webp",
+		"title": "Mahmoud Hussien",
+		"desc": "Security Solutions Architect",
+        "linkedIn": "#",
+        "gmail": "mahmoud@tarq.me",
+        "website": "/"
+	}
+]

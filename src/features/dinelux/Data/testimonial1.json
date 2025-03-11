@@ -1,0 +1,27 @@
+[
+	{
+		"image1": "/assets/images/features/dinelux/whyDineLux/slide-1-User-Friendly-Interface.jpg",
+		"title": "User-Friendly Interface",
+		"desc": "Offers an intuitive, easy-to-use design that streamlines navigation for both staff and guests, enhancing efficiency."
+	},
+	{
+		"image1": "/assets/images/features/dinelux/whyDineLux/slide-2-Customization.jpg",
+		"title": "100% Customization",
+		"desc": "Adapts to your unique needs with flexible features, allowing you to tailor the platform to your restaurant's operations."
+	},
+	{
+		"image1": "/assets/images/features/dinelux/whyDineLux/slide-3-Comprehensive-Dashboard.jpg",
+		"title": "Comprehensive Dashboard",
+		"desc": "Gain real-time insights into reservations, guest preferences, and table availability for smarter decision-making."
+	},
+	{
+		"image1": "/assets/images/features/dinelux/whyDineLux/slide-4Integration.jpg",
+		"title": "Integration",
+		"desc": "Seamlessly connects with your existing PMS and POS systems to streamline operations and enhance efficiency."
+	},
+	{
+		"image1": "/assets/images/features/dinelux/whyDineLux/slide-5-24-7-Support.jpg",
+		"title": "24/7 Support",
+		"desc": "Reliable, around-the-clock customer support to keep your operations running smoothly at all times."
+	}
+]

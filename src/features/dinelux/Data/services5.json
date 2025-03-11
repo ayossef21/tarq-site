@@ -1,0 +1,20 @@
+[
+	{
+		"icon": "/assets/images/features/dinelux/additionalFeatures/icons/01-Training-&-Seamless-Setup-icon.png",
+		"title": " Training & Seamless Setup",
+		"desc": "Quick onboarding with in-depth staff training to ensure smooth adoption and efficiency.",
+		"image1": "/assets/images/features/dinelux/additionalFeatures/01-Training-&-Seamless-Setup-1.jpg"
+	},
+	{
+		"icon": "/assets/images/features/dinelux/additionalFeatures/icons/02-Real-Time-Updates-&-Guest-Feedback-icon.png",
+		"title": "Real-Time Updates & Guest Feedback",
+		"desc": "Instant notifications for staff and guests, plus a feedback system to enhance the dining experience.",
+		"image1": "/assets/images/features/dinelux/additionalFeatures/02-Real-Time-Updates-&-Guest-Feedback-2.jpg"
+	},
+	{
+		"icon": "/assets/images/features/dinelux/additionalFeatures/icons/03-Scalability-&-Migration-Support-icon.png",
+		"title": "Scalability & Migration Support",
+		"desc": "Effortlessly adapts to growth with hassle-free data transfer and system expansion.",
+		"image1": "/assets/images/features/dinelux/additionalFeatures/03-Scalability-&-Migration-Support-3.jpg"
+	}
+]

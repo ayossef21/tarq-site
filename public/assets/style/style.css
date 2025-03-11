@@ -1,0 +1,68 @@
+/** shared */
+/* Fonts */
+.f-fs-font-fs20 {
+  font-size: 20px;
+}
+/* Border */
+.b-2-w {
+  border: 2px solid #fff;
+}
+.b-r-8 {
+  border-radius: 8px;
+}
+.b-r-10 {
+  border-radius: 10px;
+}
+.b-r-15 {
+  border-radius: 15px;
+}
+/** End shared */
+/* Start Navbar */
+.cs_nav .menu-item-has-children {
+    position: relative;
+    font-size: var(--f-fs-font-fs20);
+ }
+/* End Navbar */
+/* Start About us*/
+.about7 .images-all .image2.edit-main-color {
+  background-color: var(--ztc-bg-main-bg-1);
+}
+
+.heading1 p.f-fs-font-fs20 {
+    font-size: 20px;
+}
+/* End About us*/
+/* Start clients page */
+.skill7 .porgress-line-all {
+  background: var(--ztc-bg-main-bg-1);
+  padding: 20px;
+  border-radius: 10px;
+}
+.skill7 .porgress-line-all .progress-line {
+  margin-top: 32px;
+  position: relative;
+}
+.skill7 .porgress-line-all .progress-line:nth-child(1) {
+  margin-top: 0;
+}
+/*
+.about2 .porgress-line-all .progress-line h6 {
+  color: var(--ztc-bg-color-w);
+  font-size: var(--f-fs-font-fs20);
+  line-height: var(--f-fs-font-fs20);
+  font-weight: var(--f-fw-blod);
+}
+.about2 .porgress-line-all .progress-line .percentCount {
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: var(--ztc-bg-color-w);
+  font-size: var(--f-fs-font-fs16);
+  line-height: var(--f-fs-font-fs16);
+  font-weight: var(--f-fw-regular);
+}
+.about2 .porgress-line-all .progress-line .progressbar {
+  margin-top: 20px;
+  color: red;
+} */
+/* End clients page */

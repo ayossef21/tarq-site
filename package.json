@@ -1,0 +1,30 @@
+{
+  "name": "techxen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "build:rtl": "rtlcss ./public/assets/style/main.css ./public/assets/style/main.rtl.css"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "html-react-parser": "^5.1.18",
+    "next": "^14.2.24",
+    "next-intl": "^3.26.3",
+    "prop-types": "^15.8.1",
+    "react": "^18",
+    "react-bootstrap": "^2.10.5",
+    "react-dom": "^18",
+    "react-slick": "^0.30.2",
+    "rtlcss": "^4.3.0",
+    "slick-carousel": "^1.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.15"
+  }
+}

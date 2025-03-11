@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "/assets/images/icons/about/Reliability-icon.png",
+		"title": "Reliability",
+		"link": "/service/service-details",
+		"description": "Consistently delivering on expectations and deadlines.",
+		"animation": {
+			"type": "fade-left",
+			"duration": 700
+		}
+	},
+	{
+		"icon": "/assets/images/icons/about/Efficiency-icon.png",
+		"title": "Efficiency",
+		"link": "/service/service-details",
+		"description": "Optimizing resources for maximum impact and streamlined results.",
+		"animation": {
+			"type": "fade-left",
+			"duration": 1100
+		}
+	},
+	{
+		"icon": "/assets/images/icons/about/Human-Centric-icon.png",
+		"title": "Human-Centric",
+		"link": "/service/service-details",
+		"description": "Technology that prioritizes people, empowering businesses and society.",
+		"animation": {
+			"type": "fade-left",
+			"duration": 900
+		}
+	}
+]

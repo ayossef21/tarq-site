@@ -1,0 +1,50 @@
+[
+	{
+		"icon": "/assets/images/features/hero/service/service-page-icon6.png",
+		"title": "Advanced IT Training",
+		"desc": "Our training programs are designed to equip individuals and teams with the latest skills in cutting-edge technologies like artificial intelligence, data science, blockchain, and cybersecurity. Whether you’re an individual looking to upskill or an organization seeking to enhance team capabilities, we provide tailored training solutions that ensure success in the digital world.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	},
+	{
+		"icon": "/assets/images/features/hero/service/service-icon2.png",
+		"title": "Software Solutions",
+		"desc": "We design and implement high-performance, secure, and innovative software solutions tailored for startups, SaaS businesses, and enterprises. Our expertise spans custom software development, system integration, and IT consulting, ensuring your business operates efficiently and stays ahead of the competition.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	},
+	{
+		"icon": "/assets/images/features/hero/service/service-icon3.png",
+		"title": "Digital Transformation Consulting",
+		"desc": "We assist businesses in navigating digital transformation by providing strategic guidance, innovative solutions, and the expertise to implement new technologies that improve operational efficiency, scalability, and security.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	},
+	{
+		"icon": "/assets/images/features/hero/service/service-page-icon4.png",
+		"title": "Cybersecurity Services",
+		"desc": "Safeguard your business with our proactive cybersecurity solutions. We offer comprehensive security assessments, ethical hacking, and penetration testing for web and mobile apps, cloud platforms (AWS, Azure, GCP), and network infrastructure. Our services include source code reviews, social engineering tests, and red team assessments, using tailored methodologies to identify vulnerabilities and provide maximum security coverage, ensuring your systems remain secure against evolving threats.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	},
+	{
+		"icon": "/assets/images/features/hero/service/service-icon4.png",
+		"title": "Cloud Solutions",
+		"desc": "Optimize your business with our comprehensive cloud services, including cloud strategy and migration planning, cloud-native application development, and IaaS/PaaS architecture. We integrate DevSecOps to ensure continuous security across your cloud environments. Our experienced consultants provide customized, actionable insights, leveraging cutting-edge methodologies to enhance both the performance and security of your software, ensuring seamless and efficient cloud adoption.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	},
+	{
+		"icon": "/assets/images/features/hero/service/service-page-icon9.png",
+		"title": "Data Visualization, ML, and AI",
+		"desc": "Unlock the power of your data with our comprehensive solutions. We handle data collection, cleansing, and transformation to deliver actionable insights. Our custom machine learning models enable predictive analytics and automation, while AI-driven applications enhance decision-making and personalization. We also create intuitive dashboards that simplify complex data into clear, interactive visualizations.",
+		"btnText": "Learn More",
+		"btnLink": "#",
+		"addClass": "col-lg-4"
+	}
+]

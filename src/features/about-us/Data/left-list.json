@@ -1,0 +1,32 @@
+[
+	{
+		"icon": "/assets/images/icons/about/Premium-Quality-icon.png",
+		"title": "Premium Quality",
+		"link": "/service/service-details",
+		"description": "Delivering top-tier training and solutions to drive industry success.",
+		"animation": {
+			"type": "fade-right",
+			"duration": 700
+		}
+	},
+	{
+		"icon": "/assets/images/icons/about/Expertise--icon.png",
+		"title": "Expertise",
+		"link": "/service/service-details",
+		"description": "Our specialists provide cutting-edge, relevant tech training and solutions.",
+		"animation": {
+			"type": "fade-right",
+			"duration": 1100
+		}
+	},
+	{
+		"icon": "/assets/images/icons/about/Innovation-icon.png",
+		"title": "Innovation",
+		"link": "/service/service-details",
+		"description": " Continuously evolving to meet the latest technological demands.",
+		"animation": {
+			"type": "fade-right",
+			"duration": 900
+		}
+	}
+]
